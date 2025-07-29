@@ -80,5 +80,5 @@ This time series forecasting project helps businesses:
 * Deploy best model with Streamlit or Flask
 * Integrate with dashboards for live forecastin
 
-> **Project By:** Dismus Connor
+> **Project By:** Dismas Otieno
 > **Focus:** Data-Driven Retail Intelligence
